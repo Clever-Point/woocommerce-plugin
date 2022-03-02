@@ -2,8 +2,8 @@
 Donate link: https://cleverpoint.gr/
 Tags: clever point, shipping
 Requires at least: 4.0.0
-Tested up to: 5.9.3
-Stable tag: 1.0.0
+Tested up to: 5.9.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -71,5 +71,8 @@ You can send parcels to Clever Point with your desired courier company or by you
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.1 =
+* Changed from Bitbucket to GitHub.
+
+= 1.0.0 =
 * Initial release.
