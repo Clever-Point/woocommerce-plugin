@@ -98,9 +98,6 @@ class Clever_Point_For_Woocommerce {
 	 * @access   private
 	 */
 	private function load_dependencies() {
-
-        require_once plugin_dir_path( dirname( __FILE__ ) ) . 'includes/plugin-update-checker.php';
-
         /**
 		 * The class responsible for orchestrating the actions and filters of the
 		 * core plugin.

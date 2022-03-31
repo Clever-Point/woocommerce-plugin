@@ -1,9 +1,9 @@
-=== Plugin Name ===
+=== Clever Point for WooCommerce ===
 Donate link: https://cleverpoint.gr/
 Tags: clever point, shipping
 Requires at least: 4.0.0
-Tested up to: 5.9.1
-Stable tag: 1.0.1
+Tested up to: 5.9.3
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -70,6 +70,9 @@ You can send parcels to Clever Point with your desired courier company or by you
 [![Instructions 1](https://cleverpoint.gr/wp-content/uploads/2022/01/instructions1.jpg)]
 
 == Changelog ==
+
+= 1.0.2 =
+* Fixed the updater.
 
 = 1.0.1 =
 * Changed from Bitbucket to GitHub.
