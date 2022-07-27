@@ -1,4 +1,4 @@
-=== Clever Point for WooCommerce ===
+# Clever Point for WooCommerce
 Donate link: https://cleverpoint.gr/
 Tags: clever point, shipping
 Requires at least: 4.0.0
@@ -9,7 +9,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Add Clever Point Pick Up option to your checkout.
 
-== Description ==
 # Description
 
 Add Clever Point to your checkout and give the option to your customers to select and pick up their parcels from a convenient store near them. <br>Clever Point network counts 250+ points in Greece, ready to serve eCommerce consumers.
